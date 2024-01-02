@@ -15,27 +15,27 @@ Ferramenta para obter seu IP e rastrear qualquer outro!
 * python3 guip.py
 # Imagens
 <h3> Opção a) </h3>
-<img src="https://github.com/NerdAugustoSilva/guip/blob/main/a.png">
+<img src="https://github.com/NerdAugustoSilva/guip/blob/main/Fotos/a.png">
 
 * Obtêm seu IP
   
 <h3> Opção b) </h3>
-<img src="https://github.com/NerdAugustoSilva/guip/blob/main/b.png">
+<img src="https://github.com/NerdAugustoSilva/guip/blob/main/Fotos/b.png">
 
 * Rastreia IPs
   
 <h3> Opção c) </h3>
-<img src="https://github.com/NerdAugustoSilva/guip/blob/main/c.png">
+<img src="https://github.com/NerdAugustoSilva/guip/blob/main/Fotos/c.png">
 
 * Personaliza o script
   
 <h3> Opção d) </h3>
-<img src="https://github.com/NerdAugustoSilva/guip/blob/main/d.png">
+<img src="https://github.com/NerdAugustoSilva/guip/blob/main/Fotos/d.png">
 
 * Limpa a tela
   
 <h3> Opção e) </h3>
-<img src="https://github.com/NerdAugustoSilva/guip/blob/main/e.png">
+<img src="https://github.com/NerdAugustoSilva/guip/blob/main/Fotos/e.png">
 
 * Fecha o script
   
