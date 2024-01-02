@@ -21,15 +21,21 @@ Ferramenta para obter seu IP e rastrear qualquer outro!
   
 <h3> Opção b) </h3>
 <img src="https://github.com/NerdAugustoSilva/guip/blob/main/b.png">
+
 * Rastreia IPs
+  
 <h3> Opção c) </h3>
 <img src="https://github.com/NerdAugustoSilva/guip/blob/main/c.png">
+
 * Personaliza o script
+  
 <h3> Opção d) </h3>
 <img src="https://github.com/NerdAugustoSilva/guip/blob/main/d.png">
+
 * Limpa a tela
+  
 <h3> Opção e) </h3>
 <img src="https://github.com/NerdAugustoSilva/guip/blob/main/e.png">
+
 * Fecha o script
-
-
+  
