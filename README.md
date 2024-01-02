@@ -6,6 +6,8 @@ Ferramenta para obter seu IP e rastrear qualquer outro!
 
 * apt-get install git
 
+* pip install requests
+
 * git clone https://github.com/NerdAugustoSilva/guip
 
 * cd guip
