@@ -11,4 +11,6 @@ Ferramenta para obter seu IP e rastrear qualquer outro!
 
 * cd guip
 
-* python3 cam-hackers.py
+* python3 guip.py
+
+# Imagens
