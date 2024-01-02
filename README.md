@@ -16,7 +16,9 @@ Ferramenta para obter seu IP e rastrear qualquer outro!
 # Imagens
 <h3> Opção a) </h3>
 <img src="https://github.com/NerdAugustoSilva/guip/blob/main/a.png">
+
 * Obtêm seu IP
+  
 <h3> Opção b) </h3>
 <img src="https://github.com/NerdAugustoSilva/guip/blob/main/b.png">
 * Rastreia IPs
